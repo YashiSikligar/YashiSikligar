@@ -52,7 +52,6 @@ I enjoy turning **complex problems into clean, reliable, and impactful solutions
 - Built a multi-agent architecture using **LangChain + LangGraph**  
 - Integrated **SQL Agent + RAG Agent** with intelligent routing  
 - Developed interactive UI using **Streamlit**  
-- Designed scalable architecture for real-world use cases  
 
 ---
 
