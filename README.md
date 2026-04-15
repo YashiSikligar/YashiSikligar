@@ -40,10 +40,9 @@ I enjoy turning **complex problems into clean, reliable, and impactful solutions
 - Bash  
 - SQL  
 
-### 🔐 Cybersecurity (Learning & Building)  
-- Log Analysis & Monitoring  
-- Threat Detection Systems  
-- Security Fundamentals  
+### 🔐 Cybersecurity 
+- Security Fundamentals
+- Log Analysis
 
 ---
 
